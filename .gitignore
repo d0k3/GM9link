@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# User additions
+/build
+/output
+arm9loaderhax.bin
+arm9loaderhax_si.bin
