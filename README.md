@@ -1,11 +1,11 @@
-# GodMode9 Link
+# GodMode9Link
 A simple launcher to run GodMode9 from your homemenu
 
 This is not GodMode9 itself, but rather a simple link (CIA) to it on the homemenu. Keep in mind this and especially the required inofficial boot9strap release is experimental.
 
 ## Requirements
 
-GodMode9 Link checks for the GodMode9 FIRM payload in the following directories:
+GodMode9Link checks for the GodMode9 FIRM payload in one of the following places (places are checked in order):
 * sdcard:/luma/payloads/godmode9.firm
 * sdcard:/luma/payloads/x_godmode9.firm
 * sdcard:/luma/payloads/y_godmode9.firm

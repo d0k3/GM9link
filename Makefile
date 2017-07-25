@@ -15,7 +15,7 @@ endif
 
 # COMMON CONFIGURATION #
 
-NAME := GodMode9
+NAME := GodMode9Link
 
 BUILD_DIR := build
 OUTPUT_DIR := output
